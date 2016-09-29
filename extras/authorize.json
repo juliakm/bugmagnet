@@ -1,0 +1,32 @@
+{
+	"Credit Card": {
+		"American Express": "370000000000002",
+		"Discover": "6011000000000012",
+		"JCB": "3088000000000017",
+		"Diners Club/ Carte Blanch":"38000000000006",
+		"Visa":"4007000000027",
+		"Visa":"4012888818888",
+		"Visa":"4111111111111111",
+		"MasterCard":"5424000000000015",
+    "MasterCard":"2223000010309703",
+		"MasterCard":"2223000010309711"
+	},
+	"Boundary Workflows": {
+		"Successful charge, but...": {
+			"funds added directly to available balance (bypassing pending)":"4000000000000077",
+			"address_line1_check and address_zip_check fail":"4000000000000010",
+			"address_line1_check fail":"4000000000000028",
+			"address_zip_check fail":"4000000000000036",
+			"address_zip_check and address_line1_check unavailable":"4000000000000044",
+			"CVC check will fail (if CVC entered)":"4000000000000101"
+		},
+		"Charge declined and.." :{
+			"Card still added to customer":"4000000000000341",
+			"Card declined":"4000000000000002",
+			"Fraud":"4100000000000019",
+			"Incorrect CVC":"4000000000000127",
+			"Expired Card":"4000000000000069",
+			"Processing Error":"4000000000000119"
+		}
+	}
+}
