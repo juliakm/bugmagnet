@@ -1,0 +1,18 @@
+{
+	"Credit Card": {
+		"Visa":"4457010140000141",
+    "Visa":"4457010200000247",
+		"MasterCard":"5112000100000003",
+    "MasterCard":"5112002100000009",
+    "MasterCard":"5112000600000008",
+    "MasterCard":"5112000300000001",
+    "Discover":"6011010140000004",
+    "American Express":"375001000000005"
+	},
+		"CVV" :{
+			"Fail": "352",
+			"Fail Due to Security Mismatch": "358",
+			"Do Not Honor":"349",
+			"Generic Decline":"350"
+		}
+	}
